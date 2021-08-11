@@ -6,3 +6,7 @@
     <img src="doom-effect.gif" width="550">
   </a>
 </p>
+<p>
+    <img src="debugmodo.gif" width="550">
+  </a>
+</p>
